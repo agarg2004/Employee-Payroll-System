@@ -98,14 +98,3 @@ db.connect("localhost", "root", "password", "payrolldb");
 
 ---
 
-## 🧑‍💻 Author
-
-**Anirudh Garg** – [GitHub](https://github.com/anirudhgarg) | [LinkedIn](https://linkedin.com/in/anirudhgarg)
-
----
-
-## 📜 License
-
-This project is **MIT Licensed** – feel free to use, modify, and distribute.
-
----
