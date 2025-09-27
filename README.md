@@ -78,15 +78,14 @@ db.connect("localhost", "root", "password", "payrolldb");
 
 ---
 
-## 📊 Salary Calculation Logic
+## DEMO
 
-* **Salary** = Working Hours × Rate per Hour (default 300)
-* **DA** = 1.20 × Salary
-* **PF** = 12% of Salary
-* **HRA** = 27% of Salary
-* **Tax** = 4% of Salary
-* **Loan Debit** = 9% of Salary (if applicable)
-* **Gross Pay** = Salary + Allowances - Deductions
+<img width="1561" height="790" alt="Screenshot 2025-09-27 163824" src="https://github.com/user-attachments/assets/857096ed-2aea-4dde-a05a-94e7a0d4bac5" /><img width="1153" height="715" alt="Screenshot 2025-09-27 163831" src="https://github.com/user-attachments/assets/a79624d0-d9ee-4804-b752-9b53a76bda39" />
+<img width="1062" height="641" alt="Screenshot 2025-09-27 164003" src="https://github.com/user-attachments/assets/ce091944-29be-4ff4-aa59-0fd1f9cc4066" />
+<img width="1087" height="592" alt="Screenshot 2025-09-27 164012" src="https://github.com/user-attachments/assets/e10195c9-a548-43ca-bf8d-66807b72869d" />
+<img width="1058" height="559" alt="Screenshot 2025-09-27 164023" src="https://github.com/user-attachments/assets/d1d068e1-3a2c-41a6-a224-15a0e537c3fd" />
+<img width="1013" height="590" alt="Screenshot 2025-09-27 164035" src="https://github.com/user-attachments/assets/a57333c5-76fb-4b2e-8df6-c81d026d9686" />
+<img width="662" height="404" alt="Screenshot 2025-09-27 164058" src="https://github.com/user-attachments/assets/7e730ca9-2a20-4b84-8c7a-18221e4a7d3e" />
 
 ---
 
